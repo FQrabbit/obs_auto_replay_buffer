@@ -17,7 +17,7 @@
 
 
 ## 安装方法
-1. 下载最新版本的 [auto_replay_buffer.lua](https://github.com/FQrabbit/obs_auto_replay_buffer/releases/download/v1.2/auto_replay_buffer.lua)
+1. 下载最新版本的 [auto_replay_buffer.lua](https://github.com/FQrabbit/obs_auto_replay_buffer/releases/download/v1.3/auto_replay_buffer.lua)
 2. 打开OBS Studio，依次点击「工具」→「脚本」
 3. 点击窗口左下角的「+」按钮，选择下载好的脚本文件即可添加
 
